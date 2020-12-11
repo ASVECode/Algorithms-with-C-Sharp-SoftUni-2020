@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFS and BFS", "DFS and BFS\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Topological Sorting", "02. Topological Sorting\02. Topological Sorting.csproj", "{99251762-701A-4D7D-B522-C6747CCC6C1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Source Removal Algorithm", "Source Removal Algorithm\Source Removal Algorithm.csproj", "{68F247EE-C887-4CFA-9DE1-95A3ED67118E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{99251762-701A-4D7D-B522-C6747CCC6C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99251762-701A-4D7D-B522-C6747CCC6C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99251762-701A-4D7D-B522-C6747CCC6C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F247EE-C887-4CFA-9DE1-95A3ED67118E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F247EE-C887-4CFA-9DE1-95A3ED67118E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F247EE-C887-4CFA-9DE1-95A3ED67118E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F247EE-C887-4CFA-9DE1-95A3ED67118E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
