@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Two minutes to Midnight", "01. Two minutes to Midnight\01. Two minutes to Midnight.csproj", "{F1379744-BDEB-4415-86B4-C09E277F6158}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1379744-BDEB-4415-86B4-C09E277F6158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1379744-BDEB-4415-86B4-C09E277F6158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1379744-BDEB-4415-86B4-C09E277F6158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1379744-BDEB-4415-86B4-C09E277F6158}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FA1EE3D-CEF9-4A39-A225-60BA3C7B4852}
+	EndGlobalSection
+EndGlobal
